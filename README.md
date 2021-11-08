@@ -1,2 +1,2 @@
 # Example_of_resume
-Landing was made by css, Flexbox
+Landing (from marathon from GoIT), wich was addaptive only with css, Flexbox by me.
